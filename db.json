@@ -1,0 +1,21 @@
+{
+    "blockchain": {
+        "0": {
+            "block": 0,
+            "hash": 123,
+            "nonce": 7900,
+            "prev": 0,
+            "signature": "0x9ac6f3c95406c81e33e22b3ebdbf74382becd127c6d47f22f827ce831112208037dab575336843eed283b9d15131fae3d4511b1b211662e31f8dcf596d3ebce21c",
+            "transaction": {
+                "val": "1000",
+                "id":"admin-0x2c6d1Cf21657D1678895154DdA49c48A6b3a75F1-1-non"
+            }
+          
+        }
+    },
+    "users": {
+        "0x2c6d1Cf21657D1678895154DdA49c48A6b3a75F1": {
+            "bal": "100"
+        }
+    }
+}
